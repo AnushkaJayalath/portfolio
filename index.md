@@ -63,3 +63,6 @@
 3.  The emergence of offer type E as a notable churn reason underscores the necessity for a comprehensive review of its appeal and alignment with customer expectations.
 4.  A majority of churn cases are observed among FiberOptic clients, indicating a crucial need to enhance the quality and competitiveness of this service.
 5.  Clients with either phone or internet services exhibit a heightened likelihood of churning, underscoring the importance of addressing service quality concerns to enhance customer retention.
+
+<img src="images/1.png?raw=true"/>
+<img src="images/3.png?raw=true"/>
