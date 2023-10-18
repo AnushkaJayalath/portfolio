@@ -46,3 +46,20 @@
 
 <img src="images/Substance Screenshot 1.png"/>
 <img src="images/Substance Screenshot 2.png"/>
+
+---
+**Customer Churn Analysis (Python, Pandas, Numpy, Seaborn)**
+
+Jupyter Notebook Link - ([https://github.com/AnushkaJayalath/portfolio/blob/master/Exploratory%20Data%20Analysis%20Telecom%20customer%20Churn%20(1).ipynb])
+
+- In the competitive realm of telecommunications, "churn," which signifies customers leaving for other providers, is a critical concern. This project delves into a customer churn database with the aim of comprehending the reasons and patterns underlying these departures.
+- The analysis of the data will involve using statistical techniques to identify trends and patterns. The following steps will be taken:
+1. Data Cleaning: The data will be cleaned to remove any duplicate or irrelevant data.
+2. Descriptive Statistics: Descriptive statistics will be used to summarize the data and identify any outliers or anomalies.
+3. Exploratory Data Analysis: Exploratory data analysis will be used to visualize the data and identify any patterns or trends
+- Through the analysis we have found that Approximately 26.5% of clients churned and finding are as follows,
+1.The prominence of the 'competitor' reason suggests that customers are likely leaving due to the allure of offerings from rival service providers.
+2. Customers facing higher monthly charges, total charges, additional data charges, and total revenue are more inclined to churn. This suggests that financial considerations play a significant role in customer decisions to continue or discontinue their subscription.
+3.The emergence of offer type E as a notable churn reason underscores the necessity for a comprehensive review of its appeal and alignment with customer expectations.
+4.A majority of churn cases are observed among FiberOptic clients, indicating a crucial need to enhance the quality and competitiveness of this service.
+5.Clients with either phone or internet services exhibit a heightened likelihood of churning, underscoring the importance of addressing service quality concerns to enhance customer retention.
