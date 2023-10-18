@@ -50,7 +50,7 @@
 ---
 **Customer Churn Analysis (Python, Pandas, Numpy, Seaborn)**
 
-Jupyter Notebook Link - ([https://github.com/AnushkaJayalath/portfolio/blob/master/Exploratory%20Data%20Analysis%20Telecom%20customer%20Churn%20(1).ipynb])
+[Jupyter Notebook Link](https://github.com/AnushkaJayalath/portfolio/blob/master/Exploratory%20Data%20Analysis%20Telecom%20customer%20Churn%20(1).ipynb)
 
 - In the competitive realm of telecommunications, "churn," which signifies customers leaving for other providers, is a critical concern. This project delves into a customer churn database with the aim of comprehending the reasons and patterns underlying these departures.
 - The analysis of the data will involve using statistical techniques to identify trends and patterns. The following steps will be taken:
